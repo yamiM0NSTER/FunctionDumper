@@ -1,5 +1,5 @@
 # FunctionDumper
-IDA plugin for dumping function instructions
+IDA python plugin for dumping function instructions
 
 # How to use
 Grab the ``FunctionDumper.py`` file and put it in your IDA installation folder in ``plugins`` subfolder. Next time you right click on Text or Graph view, if a function is present at selected area, context menu will contain ``Dump Function`` option. Upon clicking ``Dump Function``, Output window will contain something along this:
